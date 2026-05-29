@@ -1,0 +1,4 @@
+package com.Spring_for_ML_HousePricePridection_model_backend.Spring_for_ML_HousePricePridection_model_backend.ResponseDTO;
+
+public record PredictionResponse(double predictedPrice) {
+}
