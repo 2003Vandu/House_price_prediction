@@ -265,3 +265,8 @@ venv/
 # Author
 
 Developed as a production-style AI microservices platform using Java Spring Boot and Python FastAPI.
+## 🧾 Author
+* 👤  **Vandesh Ghodke**
+* 🎯 **Java Backend Developer** | B.Tech Automation & Robotic 2025
+* 📧 **vandesghodke2003@gmail.com**  
+* 🔗 **GitHub – 2003Vandu**
